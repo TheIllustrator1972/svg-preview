@@ -98,5 +98,9 @@
     "@types/jsdom": "^21.1.7",
     "dompurify": "^3.1.7",
     "jsdom": "^25.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheIllustrator1972/svg-preview.git"
   }
 }
